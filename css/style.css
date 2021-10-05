@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');     
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200&family=Birthstone&family=Maven+Pro&display=swap');
+.link-cust {
+    font-family: 'Maven Pro', sans-serif;
+    color:rgb(238, 248, 248);
+    font-size: 20px;
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+p{
+    color: rgb(255, 255, 255);
+}
+a:hover {
+    color: rgb(8, 247, 60) !important;
+    font-weight: bolder;
+    background-color: rgb(0, 53, 4);
+    border-radius: 20%;
+}
+.imgproyectos{
+    width: 250px;
+    height: 250px;
+    border-radius: 20%;
+}
+.imgecorp{
+    filter: invert(100%);
+}
+.text-cust {
+    font-family: 'Maven Pro', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 60px;  
+}
+.desc-cust {
+    font-size: 24px;
+}
+.form-cust {
+    background-color: rgb(255, 255, 255);
+    border-bottom: black;
+    border-style:solid;
+    border-width: thin;
+}
+.cont-cust {
+    background-color: white;
+    border-radius: 5px;
+}
+body {
+    background-image:url(https://wallpapers.com/images/high/minimal-neon-green-matrix-g26ua7n10dp49h56.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: 1250px 580px;
+}
+#portada{
+	margin: 0px;
+	padding: 0px;
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.imagenperfil{
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    border-radius: 30px;
+    background-image: 
+    linear-gradient(to right, black 2%,transparent 50%),
+    url('../imagenes/imagenperfil1.jpg');
+}
+.seccion1{
+    color: rgb(255, 255, 255);
+    padding: 40px;
+    display: grid;
+}
+.seccion2{
+    color: white;
+    padding: 40px;
+    text-align: left;
+}
+.form1{
+    text-align: center;
+    color: rgb(7, 247, 7);
+    background: black;
+    display: grid;
+}
+.form2{
+    text-align: center;
+    color: rgb(7, 247, 7);
+    background: black;
+    display: grid;
+}
+.lista1{
+    color: rgb(0, 255, 0);
+    background: black;  
+}
+.lista2{
+    color: rgb(0, 255, 0);
+    background: black;
+}
+.h3form{
+    color: rgb(255, 255, 255);
+}
+.nombre1{
+    color: rgb(8, 240, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px ;
+}
+.nombre2{
+    color: rgb(8, 240, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px ;
+}
+.nombre3{
+    color: rgb(8, 240, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px ;
+}
+.form-control{
+    color: rgb(4, 32, 3);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px ;
+}
+.subtclick{
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    padding-top: 40px;
+    color:rgb(7, 247, 7);
+}
+.presentacion1{
+    color: rgb(207, 13, 13);
+}
+.presentacion2{
+    color: blue;
+    text-align: right;
+}
+.frase1{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    padding-top: 50px;
+}
+.imgoff{
+    padding-left: 400px;
+    height: 300px;
+}
+.debajoimagen1{
+    color: rgb(21, 255, 0);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding-top: 50px;
+}
+.fallout1{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
